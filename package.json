@@ -1,0 +1,35 @@
+{
+  "name": "xstreams",
+  "version": "0.0.1",
+  "description": "xStreams is a personal cloud streaming software.",
+  "main": "./bin/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xShadowCodingx/xstreams.git"
+  },
+  "keywords": [
+    "streams",
+    "free",
+    "stream",
+    "platform",
+    "personal",
+    "open",
+    "source",
+    "opensource",
+    "xstreams",
+    "cloud",
+    "nodejs",
+    "node",
+    "javascript",
+    "js"
+  ],
+  "author": "Chase Quinn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xShadowCodingx/xstreams/issues"
+  },
+  "homepage": "https://github.com/xShadowCodingx/xstreams#readme"
+}
